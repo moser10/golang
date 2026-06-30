@@ -6,7 +6,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/moser10/golang/internal/config"
+	"github.com/moser10/serial-port-reader-golang/internal/config"
 )
 
 // FormatFrame writes one received chunk using the selected output style.

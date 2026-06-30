@@ -1,4 +1,4 @@
-module github.com/moser10/golang
+module github.com/moser10/serial-port-reader-golang
 
 go 1.22
 

@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/moser10/golang/internal/config"
+	"github.com/moser10/serial-port-reader-golang/internal/config"
 )
 
 func TestFormatFrameHex(t *testing.T) {

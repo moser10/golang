@@ -12,8 +12,8 @@ import (
 
 	"go.bug.st/serial"
 
-	"github.com/moser10/golang/internal/config"
-	"github.com/moser10/golang/internal/sniffer"
+	"github.com/moser10/serial-port-reader-golang/internal/config"
+	"github.com/moser10/serial-port-reader-golang/internal/sniffer"
 )
 
 func main() {

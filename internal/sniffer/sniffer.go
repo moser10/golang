@@ -6,7 +6,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/moser10/golang/internal/config"
+	"github.com/moser10/serial-port-reader-golang/internal/config"
 )
 
 const defaultReadTimeout = 200 * time.Millisecond
